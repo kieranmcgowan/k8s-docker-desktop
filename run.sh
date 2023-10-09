@@ -1,3 +1,4 @@
+kubectl config use-context docker-desktop
 kubectl cluster-info
 kubectl get nodes
 kubectl get pods 
